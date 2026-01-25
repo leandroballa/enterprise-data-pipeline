@@ -1,0 +1,4 @@
+export_id,order_id,export_country,export_date,export_status,export_cost
+5001,1001,AR,2024-01-11,SHIPPED,900.0
+5002,1002,UY,2024-01-12,SHIPPED,300.0
+5003,1003,US,2024-01-26,SHIPPED,2000.0

@@ -1,0 +1,5 @@
+order_item_id,order_id,product_id,quantity,unit_price
+1,1001,101,100,15.0
+2,1001,102,50,45.0
+3,1002,101,20,15.0
+4,1003,103,10,60.0

@@ -1,0 +1,4 @@
+product_id,product_name,category,unit_price,currency
+101,T-Shirt Basic,Apparel,15.0,USD
+102,Jeans Slim,Apparel,45.0,USD
+103,Sneakers Casual,Footwear,60.0,USD

@@ -2,7 +2,10 @@
 import pandas as pd
 from pathlib import Path
 
-BASE_PATH = Path("data/raw")
+# Project root directory
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+BASE_PATH = PROJECT_ROOT / "data" / "raw"
 BASE_PATH.mkdir(parents=True, exist_ok=True)
 
 # Customers
