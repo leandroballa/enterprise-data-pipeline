@@ -72,7 +72,7 @@ Ensures consistent financial analysis across countries and currencies.
 Export-related operational costs must remain within an acceptable margin.
 
 **Rule:**
-Export cost must not exceed 20% of the total order value
+Export cost must not exceed 30% of the total order value
 
 **Purpose:**  
 Supports cost control, margin analysis, and operational efficiency monitoring.
